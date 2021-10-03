@@ -1,0 +1,100 @@
+p{
+    font-family: serif;
+    color: rgb(109, 108, 55);
+    font-weight: italic ;
+    opacity: 1;
+    font: SERIF;
+    color: darkblue;
+    
+}
+body{
+        background-image: url(https://images.unsplash.com/photo-1533891244820-1d2dbcf93f56?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80);
+        background-color: rgb(116, 175, 156);
+        
+        font-family: 'Open Sans', sans-serif;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: auto;
+        max-width: 90%;
+        line-height: 1.7;
+        background-position: bottom right;
+        
+    }
+    a{
+        opacity: 1;
+        color: rgb(73, 19, 1);
+        
+    }
+    a:hover{ 
+        font-weight: bold;
+        color: darkviolet;
+
+    }
+    a:visited{
+        color: forestgreen;
+    }
+    blockquote {
+        font-style: italic;
+        width: 50%;
+        margin: 50%;
+        font-size: 160%;
+        border-left: 3px solid firebrick;
+        padding-left: 30px;
+        margin:80px auto;
+        background-color: ghostwhite;
+    }
+    .villagers{
+        opacity: 1;
+        border-left: 2px solid #4d4dec;
+    }
+    tr.white{
+        background-color: antiquewhite !important;
+    }
+    tr.grey{
+        background-color: rgb(114, 114, 114) !important;
+    }
+    li{
+        width: fit-content;
+    }
+    div{
+        display: flex;
+    }
+    #img{
+        justify-content: left;
+        max-width: 60%;
+    }
+    #text{
+        justify-content: right;
+        justify-items: center;
+        padding-left: 30px;
+    }
+    #up{
+        background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Swartz-5.34/main/1.The-Field/8.Html-CSS/progressive-enhancement/bien.png?token=AS7RRLC6LUXJEP6IBGAJMM3BL4FAO);
+        background-repeat: no-repeat;
+        background-position: right;
+        padding-right: 50px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    #down{
+        background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Swartz-5.34/main/1.The-Field/8.Html-CSS/progressive-enhancement/mal.png?token=AS7RRLCQ7EOKZVWUBOCKXQLBL4EUU);
+        background-repeat: no-repeat;
+        background-position: right;
+        padding-right: 50px;
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    #cat{
+        background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Swartz-5.34/main/1.The-Field/8.Html-CSS/progressive-enhancement/chat.png?token=AS7RRLBGC7I3GO646G7OXU3BL35PC);
+        background-repeat: no-repeat;
+        background-position: right;
+        padding-right: 50px;
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .bad{
+        text-transform: capitalize;
+        color: #BF1818;
+        font-weight: bolder;
+    }
+
